@@ -1,6 +1,6 @@
 # 2-semestre-c
 
-### Códigos em C feito durante a disciplina de Linguagem de Programação no 1º Semestre na FATEC
+### Códigos em C feito durante a disciplina de Linguagem de Programação no 2º Semestre na FATEC
 
 ***
 
