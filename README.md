@@ -1,4 +1,4 @@
-# 2-semestre-c
+# Listas C
 
 ### Códigos em C feito durante a disciplina de Linguagem de Programação no 2º Semestre na FATEC
 
